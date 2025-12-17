@@ -4577,7 +4577,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "~"
+		(property "LCSC Part #" "https://www.tme.com/us/en-us/details/sk68-50sa/heatsinks/fischer-elektronik/"
 			(at 232.41 74.93 0)
 			(effects
 				(font
