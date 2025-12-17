@@ -1,0 +1,82 @@
+ERC report (2025-12-17T09:28:57+0000, Encoding UTF8)
+
+***** Sheet /
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(55.88 mm, 85.09 mm): Horizontal Wire, length 1.27 mm
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(57.15 mm, 88.90 mm): Symbol #PWR04 Pin 1 [Power input, Line]
+[pin_not_connected]: Hierarchical label "NTC_HEATSINK_1" in root sheet cannot be connected to non-existent parent sheet
+    ; error
+    @(120.65 mm, 58.42 mm): Hierarchical Label 'NTC_HEATSINK_1'
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(132.08 mm, 48.26 mm): Symbol #PWR092 Pin 1 [Power input, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(92.71 mm, 111.76 mm): Hierarchical Label 'RG1'
+[pin_not_connected]: Hierarchical label "RG1" in root sheet cannot be connected to non-existent parent sheet
+    ; error
+    @(92.71 mm, 111.76 mm): Hierarchical Label 'RG1'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(92.71 mm, 114.30 mm): Hierarchical Label 'RG2'
+[pin_not_connected]: Hierarchical label "RG2" in root sheet cannot be connected to non-existent parent sheet
+    ; error
+    @(92.71 mm, 114.30 mm): Hierarchical Label 'RG2'
+[pin_not_connected]: Hierarchical label "NTC_HEATSINK_2" in root sheet cannot be connected to non-existent parent sheet
+    ; error
+    @(120.65 mm, 88.90 mm): Hierarchical Label 'NTC_HEATSINK_2'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(92.71 mm, 132.08 mm): Hierarchical Label 'RD1'
+[pin_not_connected]: Hierarchical label "RD1" in root sheet cannot be connected to non-existent parent sheet
+    ; error
+    @(92.71 mm, 132.08 mm): Hierarchical Label 'RD1'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(92.71 mm, 134.62 mm): Hierarchical Label 'RD2'
+[pin_not_connected]: Hierarchical label "RD2" in root sheet cannot be connected to non-existent parent sheet
+    ; error
+    @(92.71 mm, 134.62 mm): Hierarchical Label 'RD2'
+[pin_not_connected]: Hierarchical label "NTC_AMBIENT" in root sheet cannot be connected to non-existent parent sheet
+    ; error
+    @(120.65 mm, 123.19 mm): Hierarchical Label 'NTC_AMBIENT'
+[pin_not_connected]: Hierarchical label "NTC_HEATSINK_3" in root sheet cannot be connected to non-existent parent sheet
+    ; error
+    @(165.10 mm, 58.42 mm): Hierarchical Label 'NTC_HEATSINK_3'
+[pin_not_connected]: Hierarchical label "NTC_HEATSINK_4" in root sheet cannot be connected to non-existent parent sheet
+    ; error
+    @(165.10 mm, 88.90 mm): Hierarchical Label 'NTC_HEATSINK_4'
+[pin_not_connected]: Hierarchical label "NTC_DUT" in root sheet cannot be connected to non-existent parent sheet
+    ; error
+    @(165.10 mm, 123.19 mm): Hierarchical Label 'NTC_DUT'
+[pin_not_connected]: Hierarchical label "HEATSINK_FAN_CTRL" in root sheet cannot be connected to non-existent parent sheet
+    ; error
+    @(205.74 mm, 85.09 mm): Hierarchical Label 'HEATSINK_FAN_CTRL'
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(217.17 mm, 85.09 mm): Horizontal Wire, length 2.54 mm
+[pin_not_connected]: Hierarchical label "LOAD" in root sheet cannot be connected to non-existent parent sheet
+    ; error
+    @(203.20 mm, 115.57 mm): Hierarchical Label 'LOAD'
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(227.33 mm, 60.96 mm): Vertical Wire, length 13.97 mm
+    @(229.87 mm, 74.93 mm): Horizontal Wire, length 2.54 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(226.06 mm, 123.19 mm): Horizontal Wire, length 1.27 mm
+    @(226.06 mm, 123.19 mm): Vertical Wire, length 2.54 mm
+[lib_symbol_mismatch]: Symbol 'NMOS' doesn't match copy in library 'Simulation_SPICE'
+    ; warning
+    @(224.79 mm, 85.09 mm): Symbol Q1 [NMOS]
+[footprint_link_issues]: The current configuration does not include the footprint library 'Library'.
+    ; warning
+    @(236.22 mm, 119.38 mm): Symbol U4 [1017503]
+[lib_symbol_issues]: The current configuration does not include the symbol library 'Phoenix'
+    ; warning
+    @(236.22 mm, 119.38 mm): Symbol U4 [1017503]
+
+ ** ERC messages: 25  Errors 22  Warnings 3
