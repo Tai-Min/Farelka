@@ -1,5 +1,4 @@
 (sym_lib_table
   (version 7)
   (lib (name "Phoenix")(type "KiCad")(uri "${KIPRJMOD}/Phoenix.kicad_sym")(options "")(descr ""))
-  (lib (name "AD5200BRMZ10")(type "KiCad")(uri "${KIPRJMOD}/AD5200BRMZ10.kicad_sym")(options "")(descr ""))
 )
