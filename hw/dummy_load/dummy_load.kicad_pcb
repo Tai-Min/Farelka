@@ -38662,6 +38662,19 @@
 			(justify bottom)
 		)
 	)
+	(gr_text "Licensed under CERN OHL v.1.2"
+		(at 100.7 75.9 270)
+		(layer "F.SilkS")
+		(uuid "87b6858f-b360-4209-98db-e88bf18aa205")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify bottom)
+		)
+	)
 	(gr_text "-FAN2+"
 		(at 185.85 45.6 180)
 		(layer "F.SilkS" knockout)
@@ -38726,7 +38739,7 @@
 		)
 	)
 	(gr_text "FARELKA REV:${REVISION}"
-		(at 101.78 63.5 270)
+		(at 102.2 63.55 270)
 		(layer "F.SilkS" knockout)
 		(uuid "dcef4972-3b07-48d9-954c-c52a5c533790")
 		(effects
