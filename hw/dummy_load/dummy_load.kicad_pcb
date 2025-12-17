@@ -7731,7 +7731,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 0 1.85 90)
 			(layer "F.Fab")
 			(uuid "02e1f936-e9cf-400e-9bae-69b99e4719de")
@@ -7766,7 +7766,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C24497"
+		(property "LCSC Part #" "C1848"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -28168,7 +28168,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 0 1.85 90)
 			(layer "F.Fab")
 			(uuid "fc0177d6-0e78-4016-9cc0-664e5a1901f0")
@@ -28203,7 +28203,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C24497"
+		(property "LCSC Part #" "C1848"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")

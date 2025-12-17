@@ -12792,7 +12792,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 227.838 57.658 0)
 			(effects
 				(font
@@ -12828,7 +12828,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C24497"
+		(property "LCSC Part #" "C1848"
 			(at 234.95 55.88 0)
 			(effects
 				(font
@@ -14608,7 +14608,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "1u"
 			(at 137.16 84.328 0)
 			(effects
 				(font
@@ -14644,7 +14644,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C24497"
+		(property "LCSC Part #" "C1848"
 			(at 144.78 82.55 0)
 			(effects
 				(font
