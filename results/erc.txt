@@ -1,0 +1,3 @@
+
+- hw/dummy_load/dummy_load.kicad_sch: [report](https://github.com/Tai-Min/Farelka/blob/devel/alternative-pcb-layout-PR7-AUTO/erc/hw/dummy_load/dummy_load.kicad_sch.rpt)
+Found 4 violations

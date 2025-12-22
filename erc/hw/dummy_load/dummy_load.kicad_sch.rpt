@@ -1,0 +1,21 @@
+ERC report (2025-12-22T22:13:34+0000, Encoding UTF8)
+
+***** Sheet /
+[lib_symbol_mismatch]: Symbol 'MountingHole' doesn't match copy in library 'Mechanical'
+    ; warning
+    @(166.37 mm, 182.88 mm): Symbol H2 [MountingHole]
+[lib_symbol_mismatch]: Symbol 'MountingHole' doesn't match copy in library 'Mechanical'
+    ; warning
+    @(162.56 mm, 186.69 mm): Symbol H4 [MountingHole]
+[lib_symbol_mismatch]: Symbol 'MountingHole' doesn't match copy in library 'Mechanical'
+    ; warning
+    @(173.99 mm, 182.88 mm): Symbol H1 [MountingHole]
+[lib_symbol_mismatch]: Symbol 'MountingHole' doesn't match copy in library 'Mechanical'
+    ; warning
+    @(170.18 mm, 186.69 mm): Symbol H3 [MountingHole]
+
+***** Sheet /load/
+
+***** Sheet /connectors/
+
+ ** ERC messages: 4  Errors 0  Warnings 4

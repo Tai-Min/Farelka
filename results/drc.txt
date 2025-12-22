@@ -1,0 +1,5 @@
+
+- hw/dummy_load/dummy_load.kicad_pcb: [report](https://github.com/Tai-Min/Farelka/blob/devel/alternative-pcb-layout-PR7-AUTO/drc/hw/dummy_load/dummy_load.kicad_pcb.rpt)
+Found 0 violations
+Found 0 unconnected items
+Found 0 schematic parity issues
